@@ -1,1 +1,1 @@
-# CV2-blur-face
+Real-Time Face Detection and Blurring using Python and OpenCV
